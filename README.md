@@ -1,5 +1,5 @@
 # Crowdsourced digital elevation model--CS50 Python Final Project
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://www.youtube.com/watch?v=DIrrdSBLFRU>
 #### Description
 This program uses crowdsourcing to produce a high quality digital elevation model (DEM) of a course. The DEMs for routing programs are rooted in the Shuttle Radar Topography Mission (SRTM) https://www2.jpl.nasa.gov/srtm/. Any such DEM has serious shortcomings for cycling. Especially when the DEM is a gauge for effort or accomplishemt. Barometric altimiters in GPSs do a good job of calculatinng relative changes in elevation. However, they rely on an external reference to ascertain absolute elevation of dubious quality and are subject to drift. By getting the GPS elevation of several runs between 2 known points of elevation, with a little math, a high quality DEM can be produced.
 
